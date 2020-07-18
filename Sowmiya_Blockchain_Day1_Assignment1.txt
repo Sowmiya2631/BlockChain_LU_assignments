@@ -1,0 +1,44 @@
+1. What is your understanding of a blockchain?
+
+Blockchain is a transaction that have taken place in a secure,chronological,immutable way that keeps the record permanently. It uses decentralized technique that does not involves in third-party validation.
+
+2. What is the core problem, blockchain trying to solve?
+
+There are trying to solve 3 main steps:
+Based on decentralization blockchain primarily solving authenticity, security, and need to powerful third-party trust for removing the problems.
+
+3. What are the Few Features which blockchain will give you?
+
+a. verifiable
+
+b. unchangeable
+
+c. Security
+
+d. Tamper-proof
+
+e. Decentralization
+
+f. Immutable
+
+
+4. What are the things does a block contains?
+
+a. Block Number
+
+b. Transaction Records
+
+c. Previous Hash Signature
+
+d. Mining Key
+
+How is the verifiability of Blockchain is been attained ?
+
+It can be attained by using peer to peer technology.
+
+Example:
+
+Block 1:
+0 + Data in the block = Block Signature
+Block 2:
+Previous Block Signature + Data in the New Block = Current Block Signature
